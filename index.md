@@ -7,7 +7,7 @@
 
 ## 🔹 About Me
 
-I am a cyber security enthuasist with a passion for learning all things secuirty related. At the start of 2024, I dived into Capture the Flag challenges on TryHackMe, instantly captivated by the world of Red Teaming. This passion fueled my pursuit of top-tier certifications where I could test my skills—culminating in achieving both the eJPT and OSCP! I now focus my efforts on looking at the other side of the coin which is Blue Teaming, where I have dedicated my free time into studying the process behind identifying and detecting cyber attacks. I am passionate about keeping systems secure while constantly learning about new found cyber attacks in this field
+I am a cyber security enthuasist with a passion for security, be it IT, Ethical Hacking, threat analysis, or System Security, there's always something new to learn and that fascinates me. At the start of 2024, I dived into Capture the Flag challenges on TryHackMe, instantly captivated by the world of Red Teaming. This passion fueled my pursuit of top-tier certifications where I could test my skills—culminating in achieving both the eJPT and OSCP! I am now focusing my efforts on looking at the other side of the coin which is Blue Teaming, where I have dedicated my free time into studying the process behind identifying and detecting cyber attacks. I am passionate about keeping systems secure while constantly learning about new found cyber attacks in this field!
 
 
 ---
@@ -62,13 +62,13 @@ I intially began my journey as a Security Professional by first administrating m
 
 Within the main server, I deployed several applications such as:
 
--  Wazuh: Configured a security platform that utilizes protection for endpoints on local devices, ensuring real-time threat detection 
--  Pi-Hole: Deployed a network-wide ad blocker for DNS-level filtering  
--  Portainer: Set up an efficient container management solution for updating and maintaining docker containers 
--  NextCloud: Set up network wide collaboration tool to maintain synchronization across devices 
+-  **Wazuh**: Configured a security platform that utilizes protection for endpoints on local devices, ensuring real-time threat detection 
+-  **Pi-Hole**: Deployed a network-wide ad blocker for DNS-level filtering  
+-  **Portainer**: Set up an efficient container management solution for updating and maintaining docker containers 
+-  **NextCloud**: Set up network wide collaboration tool to maintain synchronization across devices 
 
 And on the server running the NAS I deployed:
--  TrueNAS: Set up on demand, reliable file server for centralized storage and data management between local network devices
+-  **TrueNAS**: Set up on demand, reliable file server for centralized storage and data management between local network devices
 
 
 ## 🔹Connect with me!
