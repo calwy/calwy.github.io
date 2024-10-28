@@ -1,6 +1,6 @@
 # Calwyn Pereira
 
-**Cybersecurity Specialist | Threat Intelligence Analyst | Penetration Tester**
+** Cybersecurity Specialist | Threat Intelligence Analyst | Penetration Tester **
 
 ---
 
