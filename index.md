@@ -1,36 +1,54 @@
 # Calwyn Pereira
+<a href="https://linkedin.com/in/calwynpereira"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/calwy"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="mailto:calwyn.pereira@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-calwyn.pereira%40hotmail.com-limegreen?style=for-the-badge" alt="Email Badge">
+</a>
 
  **Cybersecurity Specialist** | **Threat Intelligence Analyst** | **Penetration Tester**
 
 ---
 
 
-## 🔹 About Me
+## 🔶 About Me
 
 I am a cyber security enthuasist with a passion for security, be it IT, Ethical Hacking, threat analysis, or System Security, there's always something new to learn and that fascinates me. At the start of 2024, I dived into Capture the Flag challenges on TryHackMe, instantly captivated by the world of Red Teaming. This passion fueled my pursuit of top-tier certifications where I could test my skills—culminating in achieving both the eJPT and OSCP! I am now focusing my efforts on looking at the other side of the coin which is Blue Teaming, where I have dedicated my free time into studying the process behind identifying and detecting cyber attacks. I am passionate about keeping systems secure while constantly learning about new found cyber attacks in this field!
 
 
 ---
 
-## 🔹 Skills
+## 🔶 Skills
 
 - **Threat Intelligence & Analysis**: Malware analysis, network packet capture analysis (Security Onion, Wireshark)
 - **Network Security**: Firewalls, VPNs, IDS/IPS, security protocols
 - **Penetration Testing**: Vulnerability assessment, exploitation, red teaming
 - **System Administration**: Homelab setup, server management, SIEM configuration
 - **Virtualization**: VirtualBox, VMWare
+- **Cloud Computing**: Strong Fundamentals in AWS, GCP and Microsoft Azure
 
 ---
 
-## 🔹 Certifications
+## 🔶 Certifications
 
-- **OSCP** - Offensive Security Certified Professional
-- **eJPT** - eLearnSecurity Junior Penetration Tester
-- **ICCA** - INE Certified Cloud Associate
+<a href="https://www.credential.net/a2085420-e6d1-4927-8955-25e30dd1bd33?_gl=1*1ct8qlm*_gcl_au*MTc0NzMxNDcwNS4xNzIzMTk0NDkz*_ga*NTc3MTA5NDc0LjE3MTQyOTMwNTE.*_ga_FSDJZHHBH0*MTczMDExODA3My42LjEuMTczMDExODA4Ni40Ny4wLjEwMjY4NTEzNzg.">
+  <img src="https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-red?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_OFFSEC&logoColor=white" alt="OSCP Certification" />
+</a>
+&nbsp;&nbsp;
+<a href="https://certs.ine.com/fd422f23-e275-49b7-aa4d-3d6a0f830df9#gs.grfqzb">
+  <img src="https://img.shields.io/badge/eJPT-eLearnSecurity%20Junior%20Penetration%20Tester-green?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_INE&logoColor=white" alt="eJPT Certification" />
+</a>
+&nbsp;&nbsp;
+<a href="https://certs.ine.com/1c5c70a0-1ad3-4dd5-8d14-08f7c4dced41">
+  <img src="https://img.shields.io/badge/ICCA-INE%20Certified%20Cloud%20Associate-blue?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_INE&logoColor=white" alt="ICCA Certification" />
+</a>
+
 
 ---
 
-## 🔹 Projects
+
+## 🔶 Projects
 
 ### Threat Intelligence Lab
 This lab was created to hone my skills in being a security analyst. Up until this point, I was mainly solving CTF challenges and looking at one side of the coin. This project led me to gaining a deeper understanding of the workings of  network protocols and how a system can be infiltrated in several ways over the internet. It is a great stepping stone for transtioning into becoming a SOC analyst!
@@ -45,7 +63,7 @@ The reason this project was interesting was due to the circumstance in which the
 
 ---
 
-## 🔹 Experience
+## 🔶 Experience
 
 ### Security Analyst Intern
 *Dates: September 2022-April 2023*
@@ -71,7 +89,4 @@ And on the server running the NAS I deployed:
 -  **TrueNAS**: Set up on demand, reliable file server for centralized storage and data management between local network devices
 
 
-## 🔹Connect with me!
-- **Linkedin**: [My Linkedin](https://www.linkedin.com/in/calwynpereira/)
-- **Email**: calwyn.pereira@hotmail.com
 
