@@ -26,26 +26,20 @@ I am a cyber security enthuasist with a passion for security, be it IT, Ethical 
 - **Penetration Testing**: Vulnerability assessment, exploitation, red teaming
 - **System Administration**: Homelab setup, server management, SIEM configuration
 - **Virtualization**: VirtualBox, VMWare
-- **Cloud Computing**: Strong Fundamentals in AWS, GCP and Microsoft Azure
+- **Cloud Computing**: Strong Fundamentals in AWS, GCP and Microsoft Azure, Provisioning resources for Groups, Identity Access Management
 
 ---
 
 ## 🔶 Certifications
 <ul>
   <li>
-    <a href="https://www.credential.net/a2085420-e6d1-4927-8955-25e30dd1bd33?_gl=1*1ct8qlm*_gcl_au*MTc0NzMxNDcwNS4xNzIzMTk0NDkz*_ga*NTc3MTA5NDc0LjE3MTQyOTMwNTE.*_ga_FSDJZHHBH0*MTczMDExODA3My42LjEuMTczMDExODA4Ni40Ny4wLjEwMjY4NTEzNzg.">
       <img src="https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-red?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_OFFSEC&logoColor=white" alt="OSCP Certification" />
-    </a>
   </li>
   <li>
-    <a href="https://certs.ine.com/fd422f23-e275-49b7-aa4d-3d6a0f830df9#gs.grfqzb">
       <img src="https://img.shields.io/badge/eJPT-eLearnSecurity%20Junior%20Penetration%20Tester-green?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_INE&logoColor=white" alt="eJPT Certification" />
-    </a>
   </li>
   <li>
-    <a href="https://certs.ine.com/1c5c70a0-1ad3-4dd5-8d14-08f7c4dced41">
       <img src="https://img.shields.io/badge/ICCA-INE%20Certified%20Cloud%20Associate-blue?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_INE&logoColor=white" alt="ICCA Certification" />
-    </a>
   </li>
 </ul>
 
@@ -72,7 +66,7 @@ The reason this project was interesting was due to the circumstance in which the
 ## 🔶 Experience
 
 ### Security Analyst Intern
-*Dates: September 2022-April 2023*
+*Dates: September 2022 - April 2023*
 
 This role allowed me to use various industry level tools that helped me gauge the severity of vulnerabilites while also helping me understand the intricacies and precautionary measures that take place before a webiste is deployed
 -  **Nessus**: This tool was used to run weekly vulnerability scans on servers that were housing staging websites. These staging websites were used to test new features before deployment to ensure there was no unstability when the site goes live.
@@ -80,7 +74,7 @@ This role allowed me to use various industry level tools that helped me gauge th
 -  Upon successfull completion of said scans, Reports were compiled and then sent to the respective parties to determine the steps that needed to be taken from then on
 
 ### System Administrator | My Homelab
-*Dates: March 2024-Present*
+*Dates: March 2024 - Present*
 
 I intially began my journey as a Security Professional by first administrating my own home network. This consisted of two main devices, one acting as the main server which houses open source software and the other which acted as a NAS
 
