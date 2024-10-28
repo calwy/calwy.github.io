@@ -31,18 +31,24 @@ I am a cyber security enthuasist with a passion for security, be it IT, Ethical 
 ---
 
 ## 🔶 Certifications
+<ul>
+  <li>
+    <a href="https://www.credential.net/a2085420-e6d1-4927-8955-25e30dd1bd33?_gl=1*1ct8qlm*_gcl_au*MTc0NzMxNDcwNS4xNzIzMTk0NDkz*_ga*NTc3MTA5NDc0LjE3MTQyOTMwNTE.*_ga_FSDJZHHBH0*MTczMDExODA3My42LjEuMTczMDExODA4Ni40Ny4wLjEwMjY4NTEzNzg.">
+      <img src="https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-red?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_OFFSEC&logoColor=white" alt="OSCP Certification" />
+    </a>
+  </li>
+  <li>
+    <a href="https://certs.ine.com/fd422f23-e275-49b7-aa4d-3d6a0f830df9#gs.grfqzb">
+      <img src="https://img.shields.io/badge/eJPT-eLearnSecurity%20Junior%20Penetration%20Tester-green?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_INE&logoColor=white" alt="eJPT Certification" />
+    </a>
+  </li>
+  <li>
+    <a href="https://certs.ine.com/1c5c70a0-1ad3-4dd5-8d14-08f7c4dced41">
+      <img src="https://img.shields.io/badge/ICCA-INE%20Certified%20Cloud%20Associate-blue?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_INE&logoColor=white" alt="ICCA Certification" />
+    </a>
+  </li>
+</ul>
 
-<a href="https://www.credential.net/a2085420-e6d1-4927-8955-25e30dd1bd33?_gl=1*1ct8qlm*_gcl_au*MTc0NzMxNDcwNS4xNzIzMTk0NDkz*_ga*NTc3MTA5NDc0LjE3MTQyOTMwNTE.*_ga_FSDJZHHBH0*MTczMDExODA3My42LjEuMTczMDExODA4Ni40Ny4wLjEwMjY4NTEzNzg.">
-  <img src="https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-red?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_OFFSEC&logoColor=white" alt="OSCP Certification" />
-</a>
-&nbsp;&nbsp;
-<a href="https://certs.ine.com/fd422f23-e275-49b7-aa4d-3d6a0f830df9#gs.grfqzb">
-  <img src="https://img.shields.io/badge/eJPT-eLearnSecurity%20Junior%20Penetration%20Tester-green?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_INE&logoColor=white" alt="eJPT Certification" />
-</a>
-&nbsp;&nbsp;
-<a href="https://certs.ine.com/1c5c70a0-1ad3-4dd5-8d14-08f7c4dced41">
-  <img src="https://img.shields.io/badge/ICCA-INE%20Certified%20Cloud%20Associate-blue?style=for-the-badge&logo=data:image/png;base64,LOGO_BASE64_INE&logoColor=white" alt="ICCA Certification" />
-</a>
 
 
 ---
