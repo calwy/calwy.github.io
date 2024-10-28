@@ -55,7 +55,7 @@ This role allowed me to use various industry level tools that helped me gauge th
 -  **Qualys**: This tool was also used to run pre-made scans on a set number of network systems in the corporate network to detect any anomalies which may arise
 -  Upon successfull completion of said scans, Reports were compiled and then sent to the respective parties to determine the steps that needed to be taken from then on
 
-### System Administrator | [My Homelab]
+### System Administrator | My Homelab
 *Dates: March 2024-Present*
 
 I intially began my journey as a Security Professional by first administrating my own home network. This consisted of two main devices, one acting as the main server which houses open source software and the other which acted as a NAS
@@ -72,6 +72,6 @@ And on the server running the NAS I deployed:
 
 
 ## 🔹Connect with me!
-- **Linkedin**: www.linkedin.com/in/calwynpereira
+- **Linkedin**: [My Linkedin](https://www.linkedin.com/in/calwynpereira/)
 - **Email**: calwyn.pereira@hotmail.com
 
