@@ -1,7 +1,7 @@
 # Calwyn Pereira
 <a href="https://linkedin.com/in/calwynpereira"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/calwy"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+<a href="https://github.com/calwyn-p"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
 &nbsp;&nbsp;
 <a href="mailto:calwyn.pereira@hotmail.com">
   <img src="https://img.shields.io/badge/Email-calwyn.pereira%40hotmail.com-limegreen?style=for-the-badge" alt="Email Badge">
