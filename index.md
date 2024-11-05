@@ -1,8 +1,6 @@
 # Calwyn Pereira
 <a href="https://linkedin.com/in/calwynpereira"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-&nbsp;&nbsp;
 <a href="https://github.com/calwy"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
-&nbsp;&nbsp;
 <a href="mailto:calwyn.pereira@hotmail.com">
   <img src="https://img.shields.io/badge/Email-calwyn.pereira%40hotmail.com-limegreen?style=for-the-badge" alt="Email Badge">
 </a>
@@ -62,7 +60,16 @@ The reason this project was interesting was due to the circumstance in which the
 - Find out more over here where there are instructions along with the source code for the python script [Click me](https://github.com/Calwy/unlisted-stream-sender)
 
 ---
+## 🔶 CTFs
 
+### Writeups
+Explore my collection of Capture the Flag (CTF) writeups, where I break down my approaches and solutions to various CTF challenges. These writeups reflect my hands-on experience and problem-solving skills across a range of security topics. You can check out all my writeups here, showcasing my journey from early CTFs to more advanced challenges.
+[Check them out!](https://github.com/calwy/CTFs)
+
+
+
+
+---
 ## 🔶 Experience
 
 ### Security Analyst Intern
