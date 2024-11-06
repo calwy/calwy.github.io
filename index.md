@@ -64,8 +64,10 @@ The reason this project was interesting was due to the circumstance in which the
 
 ### Writeups
 Explore my collection of Capture the Flag (CTF) writeups, where I break down my approaches and solutions to various CTF challenges. These writeups reflect my hands-on experience and problem-solving skills across a range of security topics. You can check out all my writeups here, showcasing my journey from early CTFs to more advanced challenges.
+
 [Check them out!](https://github.com/calwy/CTFs)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Cal.Win.png" alt="Your Image Badge" />
 
 
 
